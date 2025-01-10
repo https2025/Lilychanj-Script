@@ -12,24 +12,24 @@ const hariini = moment.tz('Asia/Jakarta').format('dddd, DD MMMM YYYY')
 const time = moment(Date.now()).tz('Asia/Jakarta').locale('id').format('HH:mm:ss z')
 
 //====== [ SETTING PAIRING & TOKEN ] ========//
-global.pairing = '--'
+global.pairing = '6287760550924'
 //====== [ SETTING OWNER  ] ========//
-global.owner = [ '--', '--' ]
-global.owner0 = '--@s.whatsapp.net'
+global.owner = [ '6287760550924', '6283808170193' ]
+global.owner0 = '6287760550924@s.whatsapp.net'
 global.ownernumber = '--'
-global.ownername = "森晓伟 Domp"
+global.ownername = "GIMA"
 //====== [ SETTING BOT ] ========//
-global.botname = 'Lilychanj Bot'
-global.botnumber = '--'
+global.botname = 'GIMA'
+global.botnumber = '6287760550924'
 global.bot_version = '1.1.0'
 global.prefa = ['/','!','.','#','&']
 //====== [ SETTING PACKNAME ] ========//
-global.packname = 'ׄ 𓄯ִ ── ꯭𐑈ƚꪱִ𝖼𝗄ᧉׄ𝗋 ᎓  lylꪱc𝗁α𝗇 ხᦢƚ  '
-global.author = `Crᧉׄdı๋𝗍 : 森晓伟 ταიακαdοოρ.ხiz.id\nAt ${hariini}\n${time}`
+global.packname = 'ׄGIMA'
+global.author = `CREDIT : GIMA\nAt ${hariini}\n${time}`
 global.themeemoji = '🍁'
-global.wm = " TanakaSense.js."
-global.idch = '--@newsletter'
-global.titlech = '--'
+global.wm = " Node.js."
+global.idch = '0@newsletter'
+global.titlech = '6287760550924'
 //====== [ THEME URL & URL ] ========//
 global.thumbnail = 'https://files.catbox.moe/p4g53y.jpg'
 global.Url = 'https://whatsapp.com/channel/0029VaW25g5F1YlKczMRmd1h'
